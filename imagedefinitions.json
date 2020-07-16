@@ -1,10 +1,10 @@
 [
     {
-        "name": "test-repo:latest",
+        "name": "meteor-container",
         "imageUri": "483600964845.dkr.ecr.us-east-2.amazonaws.com/test-repo"
     },
     {
-        "name": "mongo:latest",
+        "name": "mongo-container",
         "imageUri": "registry.hub.docker.com/library/mongo"
     }
 ]
