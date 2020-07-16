@@ -1,0 +1,10 @@
+[
+    {
+        "name": "test-repo",
+        "imageUri": "483600964845.dkr.ecr.us-east-2.amazonaws.com/test-repo"
+    },
+    {
+        "name": "mongo:latest",
+        "imageUri": "registry.hub.docker.com/library/mongo"
+    }
+]
