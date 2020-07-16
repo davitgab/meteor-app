@@ -1,6 +1,6 @@
 [
     {
-        "name": "test-repo",
+        "name": "test-repo:latest",
         "imageUri": "483600964845.dkr.ecr.us-east-2.amazonaws.com/test-repo"
     },
     {
